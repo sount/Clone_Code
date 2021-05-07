@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hallo Welt"
+echo "Du hast es geschafft"
