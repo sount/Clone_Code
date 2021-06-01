@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Du hast es geschafft"
+echo "Sehr gut das war erfolgreich"
