@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Neuer Text"
+echo "Nice es hat geklappt"
