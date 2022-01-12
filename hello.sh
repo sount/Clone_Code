@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Nice es hat geklappt"
+echo "Hier steht jetzt etwas anderes"
